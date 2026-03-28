@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import Profile from "../components/profile/Profile";
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <div>
+      <Profile></Profile>
+    </div>
+  );
+};
 
-export default Home
+export default Home;

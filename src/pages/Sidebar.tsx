@@ -10,7 +10,7 @@ const Sidebar = () => {
     <>
       <div className=" ">
         <div className="relative  w-full h-[75px]  bg-[#45437F]"></div>
-        <div className=" absolute top-[100px] left-[5%]    rounded-full w-[120px] h-[120px] border-4 border-white bg-[#615DFA] "></div>
+        <div className=" absolute top-[150px] left-[7.5%]    rounded-full w-[120px] h-[120px] border-4 border-white bg-[#615DFA] -translate-x-1/2 -translate-y-1/2 "></div>
         <div className=" pl-[24px] pr-[8px] ">
           <div className="pt-[75px] text-center ">
             <p className="font-poppins font-bold text-[16px] text-[#000000]">
